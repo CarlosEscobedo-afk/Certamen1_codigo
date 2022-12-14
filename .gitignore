@@ -1,0 +1,5 @@
+/.vscode
+/juego.l
+/juego.tab.c
+/juego.tab.h
+/lex.yy.c
